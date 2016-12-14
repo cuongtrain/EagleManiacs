@@ -41,6 +41,10 @@ public class Autonomous extends LinearOpMode
         TurnRight(0.5);
         sleep(3000);
         StopDriving();
+        
+        TurnRight(0.5);
+        sleep(3000);
+        StopDriving();
     }
 
 
